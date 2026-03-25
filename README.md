@@ -54,8 +54,8 @@
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x220?text=CampusKart" />
-  <img src="https://via.placeholder.com/400x220?text=GSThreads" />
+  <img src="assets\campus.png" />
+  <img src="assets\gsthreads.png" />
 </p>
 
 ---

@@ -63,11 +63,11 @@
 <!-- Animations (clean, no headings) -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Choosenone-17/Choosenone-17/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Choosenone-17/Choosenone-17/blob/gh-pages/snake.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Choosenone-17/Choosenone-17/output/pacman-contribution-graph.svg" />
+  <img src="https://github.com/Choosenone-17/Choosenone-17/blob/gh-pages/pacman.svg" />
 </p>
 
 ---

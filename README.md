@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choosenone-17&repo=CampusKart&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Choosenone-17/GSThreads">
+<a href="https://github.com/Choosenone-17/gsThreads_frontend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choosenone-17&repo=GSThreads&theme=tokyonight&hide_border=true" />
 </a>
 

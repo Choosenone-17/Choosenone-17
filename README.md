@@ -24,6 +24,18 @@
 
 ---
 
+<!-- Animations (clean, no headings) -->
+
+<p align="center">
+  <img src="https://github.com/Choosenone-17/Choosenone-17/blob/gh-pages/snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Choosenone-17/Choosenone-17/blob/gh-pages/pacman.svg" />
+</p>
+
+---
+
 * 🔥 Building full-stack MERN applications
 * 🚀 Creator of CampusKart & GSThreads
 * ⚡ I focus on shipping real-world products
@@ -56,18 +68,6 @@
 <p align="center">
   <img src="assets\campus.png" />
   <img src="assets\gsthreads.png" />
-</p>
-
----
-
-<!-- Animations (clean, no headings) -->
-
-<p align="center">
-  <img src="https://github.com/Choosenone-17/Choosenone-17/blob/gh-pages/snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Choosenone-17/Choosenone-17/blob/gh-pages/pacman.svg" />
 </p>
 
 ---

@@ -13,7 +13,7 @@
 <h2 align="center">👋 Hi, I'm Yashvardhan Patel</h2>
 
 <p align="center">
-💻 MERN Stack Developer • 🚀 Builder • ⚡ Focused on Execution
+💻 MERN Stack Developer • 🚀 Builder • ⚡ Execution > Perfection
 </p>
 
 <p align="center">
@@ -26,10 +26,10 @@
 
 ## 💫 About Me
 
-* 🔥 Building full-stack MERN apps
+* 🔥 Building full-stack MERN applications
 * 🚀 Creator of CampusKart & GSThreads
-* ⚡ Prefer shipping over planning
-* 🎯 Focus: real-world projects
+* ⚡ I focus on shipping real-world products
+* 🎯 Constantly learning & improving
 
 ---
 
@@ -46,11 +46,11 @@
 <p align="center">
 
 <a href="https://github.com/Choosenone-17/CampusKart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choosenone-17&repo=CampusKart&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choosenone-17&repo=CampusKart&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Choosenone-17/GSThreads">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choosenone-17&repo=GSThreads&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Choosenone-17&repo=GSThreads&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
@@ -60,21 +60,17 @@
 ## 🎥 Project Previews
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x220?text=CampusKart+Preview" />
-  <img src="https://via.placeholder.com/400x220?text=GSThreads+Preview" />
+  <img src="https://via.placeholder.com/400x220?text=CampusKart" />
+  <img src="https://via.placeholder.com/400x220?text=GSThreads" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- Animations (clean, no headings) -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Choosenone-17/Choosenone-17/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-## 🎮 Pacman Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Choosenone-17/Choosenone-17/output/pacman-contribution-graph.svg" />
@@ -82,11 +78,17 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Choosenone-17&theme=radical" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Choosenone-17&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Choosenone-17&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Choosenone-17&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Choosenone-17&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -94,7 +96,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Choosenone-17&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Choosenone-17&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -103,7 +105,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Build-Relentless-00ffe0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ship-Fast-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ship-Fast-0f2027?style=for-the-badge" />
 </p>
 
 ---
@@ -119,9 +121,9 @@
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://linkedin.com">LinkedIn</a> •
-  <a href="mailto:your@email.com">Email</a> •
-  <a href="https://yourportfolio.com">Portfolio</a>
+  <a href="www.linkedin.com/in/yashvardhan-patel1710">LinkedIn</a> •
+  <a href="mailto:yashvardhan.patel007@gmail.com">Email</a> •
+  <a href="https://choosenone-17.github.io/Resume/">Resume</a>
 </p>
 
 ---

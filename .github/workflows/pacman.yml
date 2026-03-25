@@ -20,9 +20,8 @@ jobs:
           outputs: |
             dist/pacman-contribution-graph.svg?palette=github-dark
 
-      - name: Push Pacman
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
+          publish_dir: ./dist
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: output
-          build_dir: dist

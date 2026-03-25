@@ -24,8 +24,6 @@
 
 ---
 
-## 💫 About Me
-
 * 🔥 Building full-stack MERN applications
 * 🚀 Creator of CampusKart & GSThreads
 * ⚡ I focus on shipping real-world products
@@ -33,15 +31,13 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featuring
 
 <p align="center">
 
@@ -56,8 +52,6 @@
 </p>
 
 ---
-
-## 🎥 Project Previews
 
 <p align="center">
   <img src="https://via.placeholder.com/400x220?text=CampusKart" />
@@ -84,8 +78,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Choosenone-17&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Choosenone-17&theme=tokyonight&hide_border=true" />
@@ -93,15 +85,11 @@
 
 ---
 
-## 📈 Activity Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Choosenone-17&theme=react-dark&hide_border=true" />
 </p>
 
 ---
-
-## ⚡ Dev Mindset
 
 <p align="center">
   <img src="https://img.shields.io/badge/Build-Relentless-00ffe0?style=for-the-badge" />
@@ -109,8 +97,6 @@
 </p>
 
 ---
-
-## 🧠 Signature
 
 <p align="center">
   <b>⚡ "I don’t wait for opportunities — I build them."</b>

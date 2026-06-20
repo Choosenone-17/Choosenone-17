@@ -22,14 +22,9 @@
 
 ---
 
-## 🚀 About Me
+Engineering student at **SGSITS (E&I)** who somehow spends more time in **VS Code** than with engineering textbooks 😄.
 
-<p align="center">
-Hey! I'm <b>Yash</b> 👋<br><br>
-Engineering student at SGSITS (E&I) who somehow spends more time in VS Code than with engineering textbooks 😄.
-
-I love building stuff, solving problems, and learning by doing. Most of what I know comes from countless hours of experimenting, breaking things, debugging, and trying again. These days you'll usually find me exploring new tech, working on side projects, or chasing the next idea that seems fun to build.
-</p>
+I love building things, solving problems, and learning by doing. Most of what I know comes from experimenting, breaking stuff, fixing it, and trying again. These days you'll usually find me exploring new tech, working on side projects, or chasing the next idea that seems fun to build.
 
 ---
 

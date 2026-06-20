@@ -24,11 +24,11 @@
 
 ## 🚀 About Me
 
-- 💻 Full-Stack MERN Developer passionate about building scalable web applications.
-- 🚀 Creator of **CampusKart** & **GSThreads**.
-- ⚡ I believe in **shipping products**, not just writing code.
-- 🌱 Currently exploring **TypeScript, Next.js, Docker & System Design**.
-- 🎯 Always learning, always building.
+<p align="center">
+Hey! I'm <b>Yash</b> 👋<br><br>
+
+I'm a B.Tech undergraduate in <b>Electronics & Instrumentation Engineering</b> at <b>SGSITS, Indore</b> and a passionate <b>Full-Stack MERN Developer</b>. I love building products from scratch, whether it's solving everyday problems, experimenting with new ideas, or creating something people genuinely enjoy using. When I'm not coding, you'll probably find me learning new technologies, improving my development workflow, or working on the next project. I believe the best way to learn is by building, shipping, and continuously improving.
+</p>
 
 ---
 

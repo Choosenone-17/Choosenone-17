@@ -23,11 +23,11 @@
 ---
 
 <h3 align="center">
-Engineering student at <b>SGSITS (E&I)</b> who somehow spends more time in <b>VS Code</b> than with engineering textbooks 😄
+Full-Stack Developer | B.Tech Undergraduate at <b>SGSITS, Indore</b>
 </h3>
 
 <p align="center">
-I love building things, solving problems, and learning by doing. Most of what I know comes from experimenting, breaking stuff, fixing it, and trying again. These days you'll usually find me exploring new tech, working on side projects, or chasing the next idea that seems fun to build.
+I enjoy building scalable web applications, exploring modern technologies, and solving problems through code. I believe the best way to learn is by building real projects, continuously improving, and sharing what I create.
 </p>
 
 ---

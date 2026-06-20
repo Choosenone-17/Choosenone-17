@@ -82,14 +82,6 @@ I enjoy building scalable web applications, exploring modern technologies, and s
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Choosenone-17&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 📊 GitHub Summary
 
 <p align="center">

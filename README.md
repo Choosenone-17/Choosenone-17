@@ -1,4 +1,3 @@
-```md
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
@@ -164,4 +163,3 @@ Modern clothing e-commerce platform built with the MERN stack.
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe0,100:000000&height=120&section=footer"/>
 </p>
-```

@@ -40,12 +40,12 @@ I enjoy building scalable web applications, exploring modern technologies, and s
 
 ---
 
-## 🎯 Current Focus
+## 💻 What I'm Working On
 
-- 🚀 Scaling **CampusKart**
-- 👕 Improving **GSThreads**
-- 📚 Learning **Next.js** & **System Design**
-- 🌍 Looking to contribute to Open Source
+- 🤖 Learning **AI/ML** and exploring its real-world applications
+- 🤝 Contributing to collaborative development projects
+- 💼 Working as a **Software Development Intern**
+- 📚 Improving my skills in **System Design** and scalable application development
 
 ---
 

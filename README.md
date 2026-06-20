@@ -74,14 +74,6 @@ I enjoy building scalable web applications, exploring modern technologies, and s
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Choosenone-17/Choosenone-17/blob/gh-pages/snake.svg"/>
-</p>
-
----
-
 ## 👾 Pacman Contribution Graph
 
 <p align="center">

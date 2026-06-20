@@ -51,16 +51,6 @@ I enjoy building scalable web applications, exploring modern technologies, and s
 
 ## 🚀 Featured Projects
 
-### 🏫 CampusKart
-
-Marketplace platform for students to buy and sell products securely within their campus.
-
-### 👕
-
-GSThreads
-
-Modern clothing e-commerce platform built with the MERN stack.
-
 <p align="center">
 
 <a href="https://github.com/Choosenone-17/CampusKart">

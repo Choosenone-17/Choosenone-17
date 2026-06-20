@@ -22,9 +22,13 @@
 
 ---
 
-Engineering student at **SGSITS (E&I)** who somehow spends more time in **VS Code** than with engineering textbooks 😄.
+<h3 align="center">
+Engineering student at <b>SGSITS (E&I)</b> who somehow spends more time in <b>VS Code</b> than with engineering textbooks 😄
+</h3>
 
+<p align="center">
 I love building things, solving problems, and learning by doing. Most of what I know comes from experimenting, breaking stuff, fixing it, and trying again. These days you'll usually find me exploring new tech, working on side projects, or chasing the next idea that seems fun to build.
+</p>
 
 ---
 

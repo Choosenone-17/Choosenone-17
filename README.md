@@ -129,7 +129,7 @@ I enjoy building scalable web applications, exploring modern technologies, and s
 <p align="center">
 <a href="https://www.linkedin.com/in/yashvardhan-patel1710/">LinkedIn</a> •
 <a href="mailto:yashvardhan.patel007@gmail.com">Email</a> •
-<a href="https://choosenone-17.github.io/Resume/">Resume</a>
+<a href="https://yashhh-017.github.io/Resume/">Resume</a>
 </p>
 
 ---

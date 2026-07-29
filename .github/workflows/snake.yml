@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: Choosenone-17
+          github_user_name: Yashhh-017
           outputs: dist/snake.svg
 
       - uses: peaceiris/actions-gh-pages@v3

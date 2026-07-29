@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Choosenone-17&label=Profile%20Views&color=00ffe0&style=flat" />
-  <img src="https://img.shields.io/github/followers/Choosenone-17?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Yashhh-017&label=Profile%20Views&color=00ffe0&style=flat" />
+  <img src="https://img.shields.io/github/followers/Yashhh-017?style=social" />
 </p>
 
 ---
@@ -53,12 +53,12 @@ I enjoy building scalable web applications, exploring modern technologies, and s
 
 <p align="center">
 
-<a href="https://github.com/Choosenone-17/CampusKart">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Choosenone-17&repo=CampusKart&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Yashhh-017/CampusKart">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashhh-017&repo=CampusKart&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Choosenone-17/gsThreads_frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Choosenone-17&repo=gsThreads_frontend&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Yashhh-017/gsThreads_frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashhh-017&repo=gsThreads_frontend&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
@@ -77,7 +77,7 @@ I enjoy building scalable web applications, exploring modern technologies, and s
 ## 👾 Pacman Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Choosenone-17/Choosenone-17/blob/gh-pages/pacman-contribution-graph-dark.svg"/>
+  <img src="https://github.com/Yashhh-017/Yashhh-017/blob/gh-pages/pacman-contribution-graph-dark.svg"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@ I enjoy building scalable web applications, exploring modern technologies, and s
 ## 📊 GitHub Summary
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Choosenone-17&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashhh-017&theme=radical"/>
 </p>
 
 ---
@@ -94,9 +94,9 @@ I enjoy building scalable web applications, exploring modern technologies, and s
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Choosenone-17&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashhh-017&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Choosenone-17&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashhh-017&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -105,7 +105,7 @@ I enjoy building scalable web applications, exploring modern technologies, and s
 ## 📉 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Choosenone-17&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashhh-017&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
